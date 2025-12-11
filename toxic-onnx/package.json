@@ -10,7 +10,7 @@
     "onnxjs": "^0.1.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "tfjs-onnx": "^0.1.1",
     "vkontakte": "^0.3.0"
   },
